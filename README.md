@@ -29,7 +29,7 @@ Note that this theme only supports Hugo version 82 and above.
 At the root of your Hugo project, run:
 
 ```bash
-git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-theme-codex
+git submodule add https://github.com/aguzovatii/hugo-theme-codex.git themes/hugo-theme-codex
 ```
 
 Next, copy the contents of the [`exampleSite/config.toml`](https://github.com/jakewies/hugo-theme-codex/blob/master/exampleSite/config.toml) to your site's `config.toml`. Make sure to read all the comments, as there a few nuances with Hugo themes that require some changes to that file.
