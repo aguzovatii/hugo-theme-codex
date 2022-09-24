@@ -213,10 +213,6 @@ If you would like to have another language supported, create a post in the [Disc
 
 There are not many UI-related strings to override in this theme. If you are looking to support a language of your own, refer to [the `i18n/en.toml` file](https://github.com/jakewies/hugo-theme-codex/blob/a7800567242b6c7d3b4bd8b36dd329c3232faf5a/i18n/en.toml) to see which strings can be overridden.
 
-### Favicon
-
-To update favicon of the site, replace the one in `static/favicon.ico` with your own.
-
 ## Contributing
 
 Check out the [CONTRIBUTORS.md file](https://github.com/jakewies/hugo-theme-codex/blob/master/CONTRIBUTING.md) for more info on how you can contribute!

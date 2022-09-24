@@ -21,8 +21,6 @@
   <meta name="twitter:creator" content="{{ .Site.Params.twitterCreator | default .Site.Params.twitter }}" />
   {{ end }}
 
-  {{ partial "favicon.html" }}
-
   <!-- Styles -->
   {{ block "styles" . }} {{ end }} <!-- Get "style_opts" variable from "styles" block -->
   {{ $base_styles_opts := .Scratch.Get "style_opts" | default (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
